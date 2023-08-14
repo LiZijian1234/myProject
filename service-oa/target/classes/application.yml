@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: service-oa
+  profiles:
+    active: dev # 表示读取application-dev.yml配置文件的内容。
