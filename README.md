@@ -1,2 +1,2 @@
-# myProject
-本仓库存储本人项目代码
+# oa-system-backcode
+本项目存储存储OA办公系统的后端代码。
